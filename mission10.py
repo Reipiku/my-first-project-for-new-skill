@@ -28,3 +28,4 @@ cicilan_bulanan_hutang_usaha(1000000, 5, 12)
 cicilan_bulanan_hutang_usaha(1000000, 5, 24)
 cicilan_bulanan_hutang_usaha(1000000, 5, 36)
 cicilan_bulanan_hutang_usaha(1000000, 5, 60)
+# selesai
